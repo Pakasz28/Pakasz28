@@ -2,7 +2,7 @@
 
 ## Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Emerson_llb?fbclid=IwY2xjawFNNqFleHRuA2FlbQIxMAABHY5-Zx9j1HHLYfGLJqGK0Er20u0v8zDqiJDFe8LZeMKz8G8rm0P5f6TQ9g_aem_hz7HdFI_6lOjp2fANJKWow)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Emerson_llb) <!-- Asegúrate de reemplazar el enlace con tu perfil de Facebook si es necesario -->
+[![Facebook](https://www.facebook.com/profile.php?id=100063793224758) <!-- Asegúrate de reemplazar el enlace con tu perfil de Facebook si es necesario -->
 
 ## Lenguajes y herramientas:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
