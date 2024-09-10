@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_llb/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100063793224758)
 
-## Lenguajes y herramientas:
+## Lenguajes y Herramientas:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Python](https://img.shields.io/badge/Python-blue)
 
@@ -12,5 +12,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pakasz28&show_icons=true)
 
 ## Carpeta de Fotos:
-[![Fotos](https://img.shields.io/badge/Fotos-000000?style=flat&logo=photo&logoColor=white)](https://github.com/pakasz28/fotos) <!-- Cambia el enlace a la carpeta de fotos según corresponda -->
-
+[![Fotos en Pexels](https://images.pexels.com/photos/1597665/pexels-photo-1597665.jpeg)](https://www.pexels.com/es-es/@sharnol-llavilla-betancur-80607913/)
+[![Fotos en Flickr](https://live.staticflickr.com/65535/48917593443_7b0e5f013b_b.jpg)](https://www.flickr.com/photos/201032199@N08/)
