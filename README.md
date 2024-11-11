@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/1569ebfd-f872-4de6-a12f-fc78e3b5f69e)
+
 
 ## Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_llb/)
